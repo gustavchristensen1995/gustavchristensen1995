@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gustavchristensen1995
 - 👀 I’m interested in basketball, astronomy and business
 - 🌱 I’m currently learning about life
-- 💞️ I’m looking to collaborate on more projects
 - 📫 How to reach me ...
 
 <!---
